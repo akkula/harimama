@@ -9,6 +9,7 @@ public class MamaprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MamaprojectApplication.class, args);
 		System.out.println("jkhg");
+		System.out.println("second commit from MALLI");
 	}
 
 }
